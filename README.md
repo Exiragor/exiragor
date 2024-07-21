@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exiragor" alt="exiragor" /></a> </p>
 
-- 🔭 I’m currently working on **T-Bank (idm system)**
+- 🔭 I’m currently working on **T-Bank (IDM system)**
 
 - 🌱 I’m currently learning **Algorithms & ML**
 
-- 💬 Ask me about **Angular,ts,gRPC**
+- 💬 Ask me about **Angular, TS, gRPC**
 
 - 📫 How to reach me **exiragor@yandex.ru**
 
