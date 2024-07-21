@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact **I like to reinstall Linux on weekends**
 
-![exiragor](https://github-profile-trophy.vercel.app/?username=exiragor)
-
 ### Connect with me:
 
 [<img src="./icons/telegram.svg" alt="telegram" width="40" height="40"/>](https://t.me/exiragor)
@@ -54,4 +52,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>](https://vuejs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>](https://webpack.js.org)
 
-![exiragor](https://github-readme-stats.vercel.app/api/top-langs?username=exiragor&show_icons=true&locale=en&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=exiragor&show_icons=true&locale=en&layout=compact" />
+</div>
