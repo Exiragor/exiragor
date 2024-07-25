@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 [![Angular](https://img.shields.io/badge/Angular-c3002f?style=flat&logo=angular)](https://angular.dev)
-[![C#](<![C#](https://img.shields.io/badge/c%23-%23239120?style=flat&logo=csharp&logoColor=white)>)](https://learn.microsoft.com/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/c%23-%23239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![Docker](https://img.shields.io/badge/Docker-1D63ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![dotnet](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -47,7 +47,7 @@
 [![svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)](https://svelte.dev)
 [![tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![vuejs]()](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+[![vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
 
 ### Some stats:
 
