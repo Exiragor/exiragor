@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 [![Angular](https://img.shields.io/badge/Angular-c3002f?style=flat&logo=angular)](https://angular.dev)
-[![C#](https://img.shields.io/badge/c%23-%23239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![Docker](https://img.shields.io/badge/Docker-1D63ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![dotnet](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
