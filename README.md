@@ -51,5 +51,4 @@
 
 ### Some stats:
 
-![github-stats](https://github-readme-stats.vercel.app/api/top-langs?username=exiragor&show_icons=true&locale=en&layout=compact)
 ![Leetcode-stats](https://leetcode-badge-sage.vercel.app/badge/exiragor?theme=neutral)
