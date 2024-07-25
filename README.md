@@ -16,10 +16,12 @@
 
 ### Connect with me:
 
-[<img src="./icons/telegram.svg" alt="telegram" width="40" height="40"/>](https://t.me/exiragor)
+![Telegram](https://img.shields.io/badge/telegram-24A1DE?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fexiragor)
 [<img src="./icons/leet-code.svg" alt="leetcode" width="40" height="40"/>](https://www.leetcode.com/exiragor)
 
 ### Languages and Tools:
+
+![Static Badge](https://img.shields.io/badge/:badgeContent?link=angular.dev)
 
 [<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />](https://angular.dev)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>](https://learn.microsoft.com/dotnet/csharp/)
